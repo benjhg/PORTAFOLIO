@@ -12,9 +12,9 @@ https://templatemo.com/tm-578-first-portfolio
 -----------------------------------------*/
 :root {
   --white-color:                  #fdffea;
-  --primary-color:                #00ffa6;
-  --secondary-color:              #000000;
-  --section-bg-color:             #f7c084;
+  --primary-color:                #00000094;
+  --secondary-color:              #b58d63;
+  --section-bg-color:             #f8cb9b;
   --dark-color:                   #000000;
   --p-color:                      #000000;
   --border-color:                 #0080ff;
@@ -647,7 +647,7 @@ strong {
 .services-thumb-up {
   position: relative;
   bottom: 50px;
-  margin-bottom: -50px;
+  margin-bottom: 50px;
 }
 
 .services-thumb:hover {
