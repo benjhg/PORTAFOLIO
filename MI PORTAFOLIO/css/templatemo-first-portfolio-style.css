@@ -11,14 +11,14 @@ https://templatemo.com/tm-578-first-portfolio
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
-  --primary-color:                #535da1;
-  --secondary-color:              #14B789;
-  --section-bg-color:             #f9f9f9;
+  --white-color:                  #fdffea;
+  --primary-color:                #00ffa6;
+  --secondary-color:              #000000;
+  --section-bg-color:             #f7c084;
   --dark-color:                   #000000;
-  --p-color:                      #717275;
-  --border-color:                 #e9eaeb;
-  --featured-border-color:        #727aab;
+  --p-color:                      #000000;
+  --border-color:                 #0080ff;
+  --featured-border-color:        #000000;
 
   --body-font-family:             'DM Sans', sans-serif;
 
@@ -1030,7 +1030,7 @@ strong {
   }
 
   .section-padding {
-    padding-top: 80px;
+    padding-top: 81110px;
     padding-bottom: 80px;
   }
 
@@ -1114,7 +1114,7 @@ strong {
 
   .services .col-lg-10 .row .col-lg-6:last-child,
   .projects .col-lg-4:last-child {
-    margin-bottom: 0;
+    margin-bottom: 50;
   }
 
   .projects-thumb {
@@ -1176,8 +1176,8 @@ strong {
   }
 
   .hero-image-wrap {
-    width: 300px;
-    height: 300px;
+    width: 3000px;
+    height: 3000px;
   }
 
   .hero-image {
